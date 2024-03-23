@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo_Operator", "Modulo_O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlStructures", "ControlStructures\ControlStructures.csproj", "{F03B7B97-30AE-4D16-A27B-0CF9AD4C39D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{C32D0164-B685-4139-A9EF-747DB670A253}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{F03B7B97-30AE-4D16-A27B-0CF9AD4C39D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F03B7B97-30AE-4D16-A27B-0CF9AD4C39D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F03B7B97-30AE-4D16-A27B-0CF9AD4C39D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32D0164-B685-4139-A9EF-747DB670A253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32D0164-B685-4139-A9EF-747DB670A253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32D0164-B685-4139-A9EF-747DB670A253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32D0164-B685-4139-A9EF-747DB670A253}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
