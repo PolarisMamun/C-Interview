@@ -2,10 +2,11 @@
 
 namespace DependencyInjection
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+            //Not done yet
             Console.WriteLine("Hello World!");
         }
     }
